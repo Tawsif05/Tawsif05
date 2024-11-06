@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawsif05&label=Profile%20views&color=0e75b6&style=flat" alt="tawsif05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawsif05" alt="tawsif05" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 - 📫 How to reach me **dilafro346@gmail.com**
@@ -21,10 +17,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tawsif05"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tawsif05" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawsif05&show_icons=true&locale=en&layout=compact" alt="tawsif05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawsif05&show_icons=true&locale=en" alt="tawsif05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif05&" alt="tawsif05" /></p>
 
