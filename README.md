@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif"
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/>
 
 - 📫 How to reach me **dilafro346@gmail.com**
 
