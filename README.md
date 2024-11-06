@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tawsif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tawsif05&label=Profile%20views&color=0e75b6&style=flat" alt="tawsif05" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tawsif05&label=Profile%20views&color=0e75b6&style=flat" alt="tawsif05" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
